@@ -1,0 +1,25 @@
+{
+  "name": "cursomobilefirst",
+  "version": "1.0.0",
+  "description": "Pagina de Criptos  Responsive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chope-dev/CriptosResposive.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "node"
+  ],
+  "author": "Santiago Giorgetti <santi.jrs.sg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chope-dev/CriptosResposive/issues"
+  },
+  "homepage": "https://github.com/chope-dev/CriptosResposive#readme"
+}
